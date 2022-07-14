@@ -2,5 +2,8 @@
   "Todo": [
     { "id": 1, "title":"todo"},
     { "id": 2, "title":"new todo"  },
-  ]
+  ],
+  "posts":[
+    {"id":1 , "likes":120}
+    ]
 }
